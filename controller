@@ -1,0 +1,5 @@
+//controller @folder//adminController.js
+
+exports.add_user = function (req, res) {
+    console.log('Form data:',req.body);
+}
