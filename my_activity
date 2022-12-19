@@ -15,3 +15,6 @@ https://api.jquery.com/val/
 
 only files upload in server sid folder using formidable
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/JavaScript-Nodejs-File-Upload-Example-Ajax
+
+get input text value in jquery
+var getValue = $('#txt_name').val();
