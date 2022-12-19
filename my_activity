@@ -18,3 +18,4 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Ja
 
 get input text value in jquery
 var getValue = $('#txt_name').val();
+var singleValues = $( "#single" ).val();
