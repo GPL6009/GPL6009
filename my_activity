@@ -19,3 +19,6 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Ja
 get input text value in jquery
 var getValue = $('#txt_name').val();
 var singleValues = $( "#single" ).val();
+
+email validation ajax jquery,api
+https://www.youtube.com/watch?v=ENfqDI3WkdI
